@@ -15,6 +15,7 @@ export default function App() {
         <p>Tous vos colis, au même endroit.</p>
       </header>
       <main>
+        <a href="/src/favoris.html">Voir les favoris</a>
         <BarreRecherche onRechercher={setSaisie} />
         <p className="compteur" role="status">
           {resultats.length} colis affiché{resultats.length > 1 ? 's' : ''}
