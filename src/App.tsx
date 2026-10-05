@@ -13,6 +13,7 @@ export default function App() {
       <header className="page__entete">
         <h1>Trackr</h1>
         <p>Tous vos colis, au même endroit.</p>
+           <a href="#" className="theme-button">sombre</a>
       </header>
       <main>
         <a href="/src/favoris.html">Voir les favoris</a>
