@@ -1,5 +1,9 @@
-# Trackr
+# Présentation
 
-Application (fictive) de suivi de colis, en React + TypeScript.
+# Installation
 
-Ce README est volontairement incomplet : votre équipe le rédige en séance 3.
+# Utilisation 
+
+# Architecture
+
+# Contribuer
